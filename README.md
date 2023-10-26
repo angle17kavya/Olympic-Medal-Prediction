@@ -8,7 +8,7 @@ The project is implemented using a Jupyter Notebook (MLProject.ipynb) in Google 
 # Prerequisites
 Before running the notebook, ensure that you have the following prerequisites:
 
-A Google account for accessing Google Colab.
+A Google account for accessing Google Colab.<br/>
 Basic knowledge of machine learning and Python.
 Dataset
 The dataset used for this project can be found at https://www.kaggle.com/datasets/nitishsharma01/olympics-124-years-datasettill-2020 . It contains historical data about Olympic events, countries, and medal winners. Make sure to download the dataset and upload it to your Google Colab environment or provide the link directly in the notebook.
